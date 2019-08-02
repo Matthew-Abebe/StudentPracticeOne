@@ -1,0 +1,11 @@
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\bin\Debug\netcoreapp2.2\studentPractice.deps.json
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\bin\Debug\netcoreapp2.2\studentPractice.runtimeconfig.json
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\bin\Debug\netcoreapp2.2\studentPractice.runtimeconfig.dev.json
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\bin\Debug\netcoreapp2.2\studentPractice.dll
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\bin\Debug\netcoreapp2.2\studentPractice.pdb
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\obj\Debug\netcoreapp2.2\studentPractice.csprojAssemblyReference.cache
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\obj\Debug\netcoreapp2.2\studentPractice.csproj.CoreCompileInputs.cache
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\obj\Debug\netcoreapp2.2\studentPractice.AssemblyInfoInputs.cache
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\obj\Debug\netcoreapp2.2\studentPractice.AssemblyInfo.cs
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\obj\Debug\netcoreapp2.2\studentPractice.dll
+C:\Users\matth\workspace\bookOneBangazon\studentPractice\obj\Debug\netcoreapp2.2\studentPractice.pdb
